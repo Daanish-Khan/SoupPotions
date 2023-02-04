@@ -1,0 +1,9 @@
+name: SoupPotions
+version: '${project.version}'
+main: me.dish.souppotions.SoupPotions
+api-version: 1.19
+authors: [ FudgeMuffins ]
+description: Customizable soup effects!
+commands:
+  sp:
+    description: SoupPotions commands
